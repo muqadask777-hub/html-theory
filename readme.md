@@ -1,6 +1,4 @@
-Aapka likha hua content bilkul sahi aur accurate hai! Kisi bhi question ka answer galat nahi hai. Lekin GitHub par jo text bohot bada aur bold ho raha tha (jaisa aapne pichli picture mein dikhaya), usko theek karne aur Markdown format ko bilkul perfect banane ke liye maine aapke poore assignment ko achhi tarah organize kar diya hai.
-Maine har question ko ## Question (Heading 2) bana diya hai aur code blocks ko proper format mein kar diya hai. Aap bas iss poore text ko copy karke apni README.md file mein paste kar dein, aapka text bilkul normal aur professional dikhega!
-```markdown
+
 ## Question 0: What is HTML and what is the difference between HTML and HTML5?
 
 **Answer:**
@@ -252,3 +250,4 @@ To make websites usable for everyone, including people with disabilities:
 ```
 
 ```
+
